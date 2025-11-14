@@ -1,0 +1,1 @@
+streamlit\nscikit-learn\npandas\nnumpy\njoblib
