@@ -1,1 +1,4 @@
-streamlit\nscikit-learn\npandas\nnumpy\njoblib
+streamlit
+scikit-learn
+pandas
+joblib
